@@ -1,4 +1,4 @@
-#  Dark Mode Calculator (Karanlık Mod Hesap Makinesi)
+#  Hesap Makinesi (Calculator)
 
 Bu proje, **Java Swing** kütüphanesi kullanılarak geliştirilmiş, modern arayüze sahip bir hesap makinesi uygulamasıdır. Standart hesaplama işlemlerinin yanı sıra, kullanıcı deneyimini iyileştiren "İşlem Geçmişi" özelliğini barındırır.
 
@@ -13,6 +13,7 @@ Bu proje, **Java Swing** kütüphanesi kullanılarak geliştirilmiş, modern ara
 ##  Özellikler
 
 * **İşlem Geçmişi (History Panel):** Yapılan işlemi ve önceki sayıları ekranın üst kısmında gösterir (Örn: `15 + 20 =`).
+
 
 
 
