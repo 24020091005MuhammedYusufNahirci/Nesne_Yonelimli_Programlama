@@ -9,11 +9,11 @@ Bu proje, **Java Swing** kütüphanesi kullanılarak geliştirilmiş, modern ara
   &nbsp; &nbsp; &nbsp; &nbsp; <img src="screenshots/ikinci.png" width="300" title="Hesap Makinesi Görünüm 2">
 </p>
 
-![Hesap Makinesi Önizleme](screenshots/app-preview.png)
 
 ##  Özellikler
 
 * **İşlem Geçmişi (History Panel):** Yapılan işlemi ve önceki sayıları ekranın üst kısmında gösterir (Örn: `15 + 20 =`).
+
 
 
 
